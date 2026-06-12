@@ -31,7 +31,6 @@ Analyze smart device usage trends and determine how those insights can be applie
 ---
 
 ## Key Findings
-
 * Users spend approximately 16.5 hours per day sedentary.
 * Average daily step count is approximately 7,638 steps.
 * Most activity is light activity rather than vigorous exercise.
