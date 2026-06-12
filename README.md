@@ -1,2 +1,74 @@
-# bellabeat-case-study
-Case Study using Fitbit smart device data.
+# Bellabeat Case Study
+
+## Project Overview
+
+This project was completed as part of the Google Data Analytics Professional Certificate.
+
+The objective was to analyze Fitbit smart device usage data and identify trends that could inform marketing recommendations for Bellabeat, a wellness technology company focused on products for women.
+
+---
+
+## Business Task
+
+Analyze smart device usage trends and determine how those insights can be applied to Bellabeat's Leaf wellness tracker.
+
+---
+
+## Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+---
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Data Validation
+* Exploratory Data Analysis
+* Data Visualization
+* Business Analysis
+* Marketing Analytics
+
+---
+
+## Key Findings
+
+### Finding 1
+
+Users spend approximately 16.5 hours per day sedentary.
+
+### Finding 2
+
+Average daily step count is approximately 7,638 steps.
+
+### Finding 3
+
+Most activity is light activity rather than vigorous exercise.
+
+### Finding 4
+
+Sleep tracking participation is lower than activity tracking participation.
+
+---
+
+## Recommendations
+
+1. Position Bellabeat Leaf as a daily wellness companion.
+2. Launch habit-building movement campaigns.
+3. Expand sleep-focused marketing initiatives.
+
+---
+
+## Project Deliverables
+
+* Full Report (PDF)
+* Executive Presentation (PDF)
+* Data Cleaning Log (PDF)
+* Python Notebook
+
+---
+
+## Visualizations
