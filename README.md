@@ -11,7 +11,9 @@ Analyze smart device usage trends and determine how those insights can be applie
 ## Tools Used
 * Python
 * Pandas
+* NumPy
 * Matplotlib
+* Seaborn
 * Jupyter notebook
 
 ---
