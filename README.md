@@ -41,7 +41,7 @@ Analyze smart device usage trends and determine how those insights can be applie
 * Full report (pdf)
 * Executive presentation (pdf)
 * Data cleaning changelog (pdf)
-* Python notebook
+* Python notebook ([view the interactive Kaggle notebook here](https://www.kaggle.com/code/newp22/case-study-bellabeat-python)) 
 
 ---
 ## Visualizations
