@@ -41,4 +41,4 @@ The dataset used in this project is the [Fitbit Fitness Tracker Data](https://ww
 * Full report (.pdf)
 * Executive presentation (.pdf)
 * Data cleaning changelog (.pdf)
-* Python notebook ([view the interactive Kaggle notebook here](https://www.kaggle.com/code/newp22/case-study-bellabeat-python))
+* Python notebook ([view the interactive Kaggle notebook here](https://www.kaggle.com/code/newp22/case-study-bellabeat-python), .ipynb)
