@@ -8,10 +8,6 @@ The objective was to analyze Fitbit smart device usage data and identify trends 
 The dataset used in this project is the [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit) available on Kaggle. It contains anonymized activity and sleep data from 30 consenting Fitbit users, including metrics such as daily steps, calories burned, activity intensity, and sleep duration collected over approximately one month.
 
 ---
-## Business Task
-Analyze smart device usage trends and determine how those insights can be applied to Bellabeat's Leaf wellness tracker.
-
----
 ## Tools Used
 * Python
 * Pandas
