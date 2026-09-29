@@ -27,7 +27,7 @@ The dataset used in this project is the [Fitbit Fitness Tracker Data](https://ww
 * Users spend approximately 16.5 hours per day sedentary.
 * Average daily step count is approximately 7,638 steps.
 * Most activity is light activity rather than vigorous exercise.
-* Higher steps generally correspond with higher calories burned
+* Higher steps generally correspond with higher calories burned.
 * Sleep tracking participation is lower than activity tracking participation.
 
 ---
